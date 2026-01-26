@@ -1,4 +1,4 @@
-# <h1 align="center">HAND DITHERER</h1>
+# <h1 align="center">SPRITE DITHERER</h1>
 
 <p align="center">
    <b>An automated Blender-to-sprite pipeline for generating dithered hand pose animations. Built for rapid prototyping of gesture-based games, with Playdate development in mind.</b><br>
