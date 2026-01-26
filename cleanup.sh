@@ -25,7 +25,6 @@ rm -rf ./output/spritesheets
 echo "Removing SUMMARY"
 rm -rf ./output/*.json
 
-# Fixed: proper line continuation (no space before \)
 if [ $(ls ./output/raw/thumb/*.png 2>/dev/null | wc -l) == 0 ] && \
 	[ $(ls ./output/dithered/thumb/*.png 2>/dev/null | wc -l) == 0 ] && \
 	[ $(ls ./output/raw/index/*.png 2>/dev/null | wc -l) == 0 ] && \
