@@ -77,7 +77,7 @@ When building a hand-based puppet game prototype, I needed sprites for 5 fingers
 3. Render frame
 4. Export PNG
 5. Open in image editor
-6. Apply dithering (which I was doing via (***Dither Me This***)[https://doodad.dev/dither-me-this/])
+6. Apply dithering (which I was doing via [***Dither Me This***](https://doodad.dev/dither-me-this/)
 7. Save with correct naming
 8. **Repeat 79 more times**
 
