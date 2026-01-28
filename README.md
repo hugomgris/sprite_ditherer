@@ -12,7 +12,7 @@
     <img alt="Game Dev Tools" src="https://img.shields.io/badge/Game%20Dev%20Tools-FF6B6B?style=for-the-badge" />
 </p>
 <p align="center">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hugomgris/hand_ditherer?color=lightblue" />
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hugomgris/sprite_ditherer?color=lightblue" />
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" />
     <img alt="Status" src="https://img.shields.io/badge/Status-Active-success" />
 </p>
