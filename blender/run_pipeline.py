@@ -53,7 +53,7 @@ def pack_all_sheets(project_root):
 
 if __name__ == "__main__":
 	project_root = os.path.dirname(os.path.dirname(__file__))
-	blend_file = os.path.join(project_root, "blender", "protoHand.blend")
+	blend_file = os.path.join(project_root, "blender", "protoHand_split.blend")
 	
 	print("=== RUNNING FULL PIPELINE ===")
 	
